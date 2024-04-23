@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Pranav! I'm a Computer Engineering student at UC San Diego passionate about Embedded Systems! 👋
 
 <!--
 **DaPhysikist/DaPhysikist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
